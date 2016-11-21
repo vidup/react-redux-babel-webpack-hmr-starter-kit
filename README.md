@@ -95,5 +95,5 @@ export default connect(mapStateToProps)(ReactContainer);
 
 # TODO
 
-Better README
-Add Tests to the starter kit.
+- Better README
+- Add Tests to the starter kit.
